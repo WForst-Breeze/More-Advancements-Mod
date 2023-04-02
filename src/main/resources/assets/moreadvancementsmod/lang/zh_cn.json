@@ -1,6 +1,6 @@
 {
     //collection
-    "advancements.moreadvancementsmod.collection.root.title": "余音绕梁",
+    "advancements.moreadvancementsmod.collection.root.title": "音乐",
     "advancements.moreadvancementsmod.collection.root.description": "你已经收听了全部的音乐唱片！",
     "advancements.moreadvancementsmod.collection.jukebox.title": "奏乐！",
     "advancements.moreadvancementsmod.collection.jukebox.description": "获得唱片机",
@@ -66,7 +66,7 @@
     "advancements.moreadvancementsmod.collection.play_disc_ward.description": "播放音乐唱片 - Ward",
 
     //Aquatic
-    "advancements.moreadvancementsmod.aquatic.root.title": "深海迷航",
+    "advancements.moreadvancementsmod.aquatic.root.title": "海洋",
     "advancements.moreadvancementsmod.aquatic.root.description": "去泡个澡。",
     "advancements.moreadvancementsmod.aquatic.boat.title": "希望风帆！",
     "advancements.moreadvancementsmod.aquatic.boat.description": "制作一艘船",
